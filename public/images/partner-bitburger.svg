@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="48" viewBox="0 0 176 48" fill="none" aria-hidden="true">
+  <!-- vertical seal / keystone mark -->
+  <g fill="#1a1a1a" transform="translate(2,4)">
+    <path d="M10 0h16l4 6v28l-12 8-12-8V6L10 0z"/>
+    <path fill="#fff" d="M14 8h12v4H14zm0 8h12v3H14zm2 7h8v10l-4 3-4-3V23z"/>
+  </g>
+  <!-- signature-ish flourish above wordmark -->
+  <path stroke="#1a1a1a" stroke-width="1.2" fill="none" d="M46 10c6-6 14-6 20-1 4 3 8 4 14 2"/>
+  <!-- blackletter-ish Bitburger (approximated with bold serif + tight tracking) -->
+  <text x="44" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" font-style="italic" fill="#1a1a1a">Bitburger</text>
+</svg>

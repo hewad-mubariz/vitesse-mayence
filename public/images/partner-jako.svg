@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="48" viewBox="0 0 128 48" fill="none" aria-hidden="true">
+  <!-- circle with two diagonal bars -->
+  <circle cx="22" cy="24" r="16" stroke="#1a1a1a" stroke-width="3.2" fill="none"/>
+  <path stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" d="M14 30 L26 14"/>
+  <path stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" d="M18 32 L30 16"/>
+  <text x="46" y="31" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="0.06em" fill="#1a1a1a">JAKO</text>
+</svg>

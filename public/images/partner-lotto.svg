@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="48" viewBox="0 0 168 48" fill="none" aria-hidden="true">
+  <!-- four-leaf clover -->
+  <g fill="#1a1a1a" transform="translate(2,6)">
+    <circle cx="12" cy="6" r="6.2"/>
+    <circle cx="6" cy="14" r="6.2"/>
+    <circle cx="18" cy="14" r="6.2"/>
+    <circle cx="12" cy="22" r="6.2"/>
+    <rect x="11" y="12" width="2.2" height="18" rx="1"/>
+  </g>
+  <text x="40" y="26" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="22" font-weight="900" letter-spacing="0.04em" fill="#1a1a1a">LOTTO</text>
+  <text x="41" y="40" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="500" letter-spacing="0.02em" fill="#1a1a1a">Rheinland-Pfalz</text>
+</svg>
